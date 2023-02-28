@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="zxx">
-
-<!-- Mirrored from ethemestudio.com/demo/fungi/9_home_classic/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Feb 2023 18:35:34 GMT -->
 <head>
 	<!-- Meta -->
 	<meta charset="utf-8">
@@ -29,7 +27,7 @@
     <link rel="stylesheet" href="css/aos.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
-    <title>Fungi | Personal Portfolio Template</title>
+    <title>Adv. Snehal Doshi</title>
 </head>
 <body data-bs-spy="scroll" data-bs-target="#site-navbar" class="home-classic">
 
@@ -99,9 +97,9 @@
 					</div> <!-- .image-block -->
 
 					<div class="col-xl-6 content-block">
-						<h1 class="hero-head"><small>Hello, I'm</small>Michael <strong>Smith</strong></h1>
+						<h1 class="hero-head"><small>Hello, I'm</small>Adv. Snehal <strong>Doshi</strong></h1>
 						<p>
-							New York based 
+							Pune based 
 							<span class="typer" id="main" data-words="Web Developer, Web Designer, Freelancer" data-delay="100" data-deleteDelay="1000"></span>
 							<span class="cursor" data-owner="main"></span>
 						</p>
